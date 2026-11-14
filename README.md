@@ -1,7 +1,7 @@
 # failsafe-it-database
 SQL Server database for FailSafe IT to manage clients, consultants, projects and assignments.
 ####
-NORMALISATION
+Normalisation
 ####
 **First normal form (1NF).** Each field holds a single value.
 For example, each assignment stores one `ConsultantId`.
