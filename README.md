@@ -1,5 +1,9 @@
 # failsafe-it-database
 SQL Server database for FailSafe IT to manage clients, consultants, projects and assignments.
+
+## ER diagram
+[View the FailSafe IT ER diagram in Lucidchart](https://lucid.app/lucidchart/93d93899-9094-48fb-9605-1a443eef6f98/edit?view_items=XHGMYBc8e5ZD&page=0_0&invitationId=inv_ac1efd06-8d58-429f-b7ba-54d57c91b42d)
+
 ####
 Normalisation
 ####
