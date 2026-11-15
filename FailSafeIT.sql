@@ -124,6 +124,8 @@ SET [HourlyRate] = 1300.00
 WHERE [SocialSecurityNumber] = '901021-5178';
 
 -- Query E
+-- Delete the selected client only if they have no projects.
+-- This guarantees they have no active assignments and preserves project history.
 DELETE c
 FROM [Clients] AS c
 WHERE c.[OrganisationNumber] = '556000-2000'
